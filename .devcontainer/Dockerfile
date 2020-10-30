@@ -9,7 +9,7 @@ ENV LANG=en_US.UTF-8 \
     LANGUAGE=en_US
 
     # Install jekyll
-RUN gem install bundler jekyll
+RUN gem install bundler jekyll github-pages
 
 # [Option] Install Node.js
 ARG NODE_VERSION="lts/*"
