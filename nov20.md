@@ -7,3 +7,5 @@ Nov 10 & 12, 2020
 [Slack](https://systemsthinking-dev.slack.com)
 
 For help, email contact@jessitron.com
+
+You can receive [notifications about this event!](https://jessitron.ck.page/8211ec5d1a)
