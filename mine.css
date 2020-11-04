@@ -1,0 +1,15 @@
+
+
+
+
+:root {
+  --very-dark-bg-color: #221d07;
+  --dark-bg-color: #593311;
+  --happy-green: #788a14;
+  --happy-blue: #719ed9;
+  --happy-yellow: #d7c600;
+}
+
+#header_wrap { background: #221d07; background: linear-gradient(to top, var(--dark-bg-color), var(--very-dark-bg-color)); }
+
+#footer_wrap { background: var(--very-dark-bg-color); }
