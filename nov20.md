@@ -1,11 +1,16 @@
 # Invitation to Systems Thinking
 
-Through [Explore DDD](http://exploreddd.com/workshops/jessica-kerr-kent-beck.html)
+This page is for people who are attending this workshop through [Explore DDD](http://exploreddd.com/workshops/jessica-kerr-kent-beck.html).
 
-Nov 10 & 12, 2020
+Schedule:
 
-[Slack](https://systemsthinking-dev.slack.com)
+* Tuesday, Nov 10th
+  * Drawing Systems, 9:30-11am Pacific / 12:30-2pm Eastern
+  * Controlling Systems, 12-1:30pm Pacific / 3-4:30pm Eastern
+* Thursday, Nov 12th
+  * Changing Systems, 9:30-11am Pacific / 12:30-2pm Eastern
+  * Thinking in Systems, 12-1:30pm Pacific / 3-4:30pm Eastern
+
+Look in your email for a link to Zoom and Miro, and an invitation to [Slack](https://systemsthinking-dev.slack.com). Join Slack and introduce yourself before the workshop starts.
 
 For help, email contact@jessitron.com
-
-You can receive [notifications about this event!](https://jessitron.ck.page/8211ec5d1a)
