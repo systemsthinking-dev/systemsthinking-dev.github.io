@@ -51,4 +51,12 @@ Read this one if you want to reconsider how we see and perceive.
 This book is about vision (as in, eyes) in ecological psychology. It gave me my favorite definition of what constitutes a system: parts, interactions between parts, and interactions between parts and pieces of the environment. The best stuff is in Lecture 1, and the first three lectures are free!
 I highly recommend the [free Kindle sample](https://smile.amazon.com/Lectures-Perception-Perspective-Michael-Turvey-ebook-dp-B07K4SCKR1/dp/B07K4SCKR1/ref=mt_other?_encoding=UTF8&me=&qid=1604875159). The book itself is expensive.
 
+## Byung-chul Han
+
+### Shanzhai: Deconstruction in Chinese
+
+Read this adorable little volume if you are tired of arguing over "was it invented or discovered" or "who came up with this first" 
+and ready to see creation as a conversation.
+
+It describes the Chinese concepts of "original" and "creative." They're much less hero-centric than Western ideas. It's refreshing.
 
