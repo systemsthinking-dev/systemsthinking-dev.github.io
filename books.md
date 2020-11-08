@@ -36,7 +36,19 @@ This book is not about dynamics. (I thought at first it'd be about physics.) Thi
 IMO this book answers the question of "do we have free will?" Spoiler: it's "we have influence, not control, over what we do."
 
 This is a tough read, because it's academic. There's a lot of review of existing work, starting with Aristotle. (That part was interesting,
-because it was mostly new to me.) It's also really expensive on Amazon. But the author provides [a pdf on her website](https://aliciajuarrerodotcom1.wordpress.com/dynamics-in-action-2/)!
+because it was mostly new to me.) It's also really expensive on Amazon at the moment. But the author provides [a pdf on her website](https://aliciajuarrerodotcom1.wordpress.com/dynamics-in-action-2/)!
 
 Favorite chapter: Chapter 10, Dynamical Constraints as Landscapes: Meaning and Behavior as Topology.
+
+## Michael Turvey
+
+Here's a [cool 15m video](https://www.youtube.com/watch?v=BLR7ZTSel9M) by Turvey on perception and tensegrity.
+
+### Lectures on Perception
+
+Read this one if you want to reconsider how we see and perceive. 
+
+This book is about vision (as in, eyes) in ecological psychology. It gave me my favorite definition of what constitutes a system: parts, interactions between parts, and interactions between parts and pieces of the environment. The best stuff is in Lecture 1, and the first three lectures are free!
+I highly recommend the [free Kindle sample](https://smile.amazon.com/Lectures-Perception-Perspective-Michael-Turvey-ebook-dp-B07K4SCKR1/dp/B07K4SCKR1/ref=mt_other?_encoding=UTF8&me=&qid=1604875159). The book itself is expensive.
+
 
