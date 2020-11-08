@@ -6,18 +6,18 @@ The book that will transform your thinking depends on where you are, more than w
 
 ## Donella Meadows
 
-### Thinking in Systems: A Primer
+### Thinking in Systems: A Primer (2008)
 
 If you don't really believe systems thinking is necessary, then start here.
 
 ## Jerry Weinberg
 
-### Quality Software Management, Volume 1: Systems Thinking
+### Quality Software Management, Volume 1: Systems Thinking (1991)
 
 Diagrams of effect! Software development process patterns! This is about how nonlinear effects and feedback loops spoil attempts at controlling management.
 We need to steer instead.
 
-### Secrets of Consulting
+### Secrets of Consulting 1986
 
 Short. Witty. Brilliant. Full of the kind of statement that seems obvious after you absorb it, but wasn't before.
 
@@ -25,7 +25,7 @@ Read this if you have eyes and enough industry experience to be exasperated.
 
 ## Alicia Juarrero
 
-### Dynamics in Action
+### Dynamics in Action (2002)
 
 If you want to get deep into how human behavior happens, with detailed philosophy and some math, this is an important book. It's significant in the modern
 conversation in philosophy.
@@ -44,7 +44,7 @@ Favorite chapter: Chapter 10, Dynamical Constraints as Landscapes: Meaning and B
 
 Here's a [cool 15m video](https://www.youtube.com/watch?v=BLR7ZTSel9M) by Turvey on perception and tensegrity.
 
-### Lectures on Perception
+### Lectures on Perception (2018)
 
 Read this one if you want to reconsider how we see and perceive. 
 
@@ -53,7 +53,7 @@ I highly recommend the [free Kindle sample](https://smile.amazon.com/Lectures-Pe
 
 ## Byung-chul Han
 
-### Shanzhai: Deconstruction in Chinese
+### Shanzhai: Deconstruction in Chinese (2017)
 
 Read this adorable little volume if you are tired of arguing over "was it invented or discovered" or "who came up with this first" 
 and ready to see creation as a conversation.
