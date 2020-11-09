@@ -1,5 +1,7 @@
 # Invitation to Systems Thinking
 
+![Explore DDD](/images/exploreddd.jpg)
+
 This page is for people who are attending this workshop through [Explore DDD](http://exploreddd.com/workshops/jessica-kerr-kent-beck.html).
 
 Schedule:
