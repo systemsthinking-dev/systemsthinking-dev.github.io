@@ -14,6 +14,4 @@ Come with your questions, leave with new (and maybe even better?) questions.
 
 Is it even possible to learn about systems thinking without the right attire? Probably. But why risk it when you can get a [tee-shirt?](https://teespring.com/stores/systems-thinking)
 
-[Find out about future workshops](https://jessitron.ck.page/8211ec5d1a)
-
 <script async data-uid="8211ec5d1a" src="https://jessitron.ck.page/8211ec5d1a/index.js"></script>
