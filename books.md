@@ -78,3 +78,14 @@ and ready to see creation as a conversation.
 
 It describes the Chinese concepts of "original" and "creative." They're much less hero-centric than Western ideas. It's refreshing.
 
+## Ludwig von Bertalanffy
+
+### General Systems Theory
+
+Describes systems theory from an abstract perspective. A little obsessed with finding isomorphisms between different systems, "Oh, look, finance is exactly like butterfly migration."
+
+## Edward Tenner
+
+### Why Things Bite Back
+
+tl;dr non-linearity and thresholds.
