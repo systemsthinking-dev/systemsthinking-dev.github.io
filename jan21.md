@@ -55,6 +55,8 @@ Constraints reduce possibilities.
 
 ## Day 1: Drawing systems
 
+<img class="day-image" src="images/play.png">
+
 Before introductions from everyone, see an example of the kind of system modeling we're talking about. 
 Then learn the notation, read a play together, and practice drawing systems.
 Notice surprising properties of the systems in our pictures, including nonlinearity and feedback loops.
@@ -62,11 +64,15 @@ There is more to "why" than "what made it happen?"
 
 ## Day 2: Controlling and growing systems
 
+<img class="day-image" src="images/sbe-small.png">
+
 If we can see a system, how do we make it do what we want? Start through Meadows' ranked system interventions, from 
 least to most impactful.
 Find surprising challenges, and some nonobvious opportunities.
 
 ## Day 3: Changing systems
+
+<img class="day-image" src="images/bos-small.jpg">
 
 Let's talk about the most powerful ways to impact systems. Transcend paradigms and consider many different kinds of causality.
 Then, the best part: present an example of a system in your life, and help others find new choices in their circumstances.
@@ -78,5 +84,7 @@ We will use Zoom for video and chat during the session, Miro for collaborative d
 ## Care package
 
 We'll mail you a sticker and a reference bookmark and some other goodies. If we're lucky, it'll get to you before the workshop starts.
+
+<img src="images/retro.png">
 
 More questions? email contact@jessitron.com

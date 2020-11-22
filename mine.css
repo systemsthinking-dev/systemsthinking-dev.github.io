@@ -13,3 +13,11 @@
 #header_wrap { background: #221d07; background: linear-gradient(to top, var(--dark-bg-color), var(--very-dark-bg-color)); }
 
 #footer_wrap { background: var(--very-dark-bg-color); }
+
+
+.day-image {
+  width: 20%;
+  margin-left: -10%;
+  float: left;
+  margin-right: 28px;
+}
