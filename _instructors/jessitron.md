@@ -35,5 +35,5 @@ and spoken at conferences about
 [Ruby](https://wordpress.com/post/jessitron.com/3103), 
 and [Elm](https://jessitron.com/2020/11/27/talk-adventures-in-elm/).
 
-Jess lives in St. Louis, MO with two children who invent worlds and draw characters with superpower, and two cats 
+Jess lives in St. Louis, MO with two children who invent worlds and draw characters with superpowers, and two cats 
 who meow and knock over water glasses.
