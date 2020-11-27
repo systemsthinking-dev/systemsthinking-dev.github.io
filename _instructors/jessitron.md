@@ -4,7 +4,7 @@ twitter: jessitron
 site: jessitron.com
 blog: jessitron.com/blog
 image: /images/new-hair-headshot.jpg
-pullquote: I don't want to **build software** so much as <br>**build understanding and express it in software**. <br>([tweet](https://twitter.com/jessitron/status/1255850505798025218))
+pullquote: I don't want to **build software** so much as <br>**build understanding and express it in software**[.](https://twitter.com/jessitron/status/1255850505798025218)
 ---
 
 After twenty years in software development, Jess believes that we are doing more than building.

@@ -18,4 +18,8 @@ layout: default
 {% endif %}
 </div>
 
+{% if page.pullquote %}
+<blockquote>{{page.pullquote | markdownify }}</blockquote>
+{% endif %}
+
 {{ content }}

@@ -23,7 +23,23 @@
 }
 
 .instructor-image {
-  float: left;
+  float: right;
   width: 300px;
   margin-right: 18px;
 }
+
+blockquote p:before { 
+  content: open-quote;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: var(--dark-bg-color);
+  } 
+  blockquote p:after { 
+  content: close-quote;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: var(--dark-bg-color);
+    
+  }
