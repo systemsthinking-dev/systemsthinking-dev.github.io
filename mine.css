@@ -21,3 +21,9 @@
   float: left;
   margin-right: 28px;
 }
+
+.instructor-image {
+  float: left;
+  width: 300px;
+  margin-right: 18px;
+}

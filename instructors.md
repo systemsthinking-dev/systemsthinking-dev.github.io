@@ -2,7 +2,7 @@
 title: Workshop Instructors
 ---
 
-Stuff and Things
+People
 
 <div>
   {% for instructor in site.instructors %}
