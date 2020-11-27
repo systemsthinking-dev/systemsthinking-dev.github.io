@@ -3,4 +3,11 @@ title: Invitation to Systems Thinking
 description: changing our software, our systems, and maybe ourselves
 collections:
   instructors:
+    layout: default
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: "instructors"
+    values:
+      layout: "instructor"
