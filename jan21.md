@@ -85,6 +85,10 @@ We will use Zoom for video and chat during the session, Miro for collaborative d
 
 We'll mail you a sticker and a reference bookmark and some other goodies. If we're lucky, it'll get to you before the workshop starts.
 
+# It'll be great!
+
+<a class="sign-up-now" href="https://www.eventbrite.com/e/invitation-to-systems-thinking-january-2021-tickets-129626617703">Sign up here</a>
+
 <img src="images/retro.png">
 
 More questions? email contact@jessitron.com
