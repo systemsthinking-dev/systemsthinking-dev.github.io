@@ -10,7 +10,15 @@ We will resolve paradoxes like “Theseus’s Ship” and “The Chicken and The
 
 Come with your questions, leave with new (and maybe even better?) questions.
 
-[Sign up here](http://exploreddd.com/workshops/jessica-kerr-kent-beck.html) for the first one, Nov 10&12, 2020. [(Already signed up?)](nov20)
+# Join us
+
+Start the new year with new thoughts. Join us the second week of January, 2021. 
+
+[More details](jan21)
+
+[tickets available at EventBrite](https://www.eventbrite.com/e/invitation-to-systems-thinking-january-2021-tickets-129626617703)
+
+# Swag
 
 Is it even possible to learn about systems thinking without the right attire? Probably. But why risk it when you can get a [tee-shirt?](https://teespring.com/stores/systems-thinking)
 
