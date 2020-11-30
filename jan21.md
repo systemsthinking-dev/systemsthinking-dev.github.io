@@ -23,10 +23,10 @@ Before we start: you'll get an invitation to Slack; say hi and start a discussio
 * Monday, 11 January:
   * Drawing Systems, 9:30-11am Pacific / 12:30-2pm Eastern
   * Drawing Systems Together, 12-1:30pm Pacific / 3-4:30pm Eastern
-* Tuesday, Nov 12th
+* Tuesday, 12 January:
   * Controlling Systems, 9:30-11am Pacific / 12:30-2pm Eastern
   * Growing Systems, 12-1:30pm Pacific / 3-4:30pm Eastern
-* Thursday, Nov 12th
+* Thursday, 14 January:
   * Changing Systems, 9:30-11am Pacific / 12:30-2pm Eastern
   * Our Own Systems, 12-1:30pm Pacific / 3-4:30pm Eastern
 
