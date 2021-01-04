@@ -2,4 +2,6 @@
 
 ### [Invitation to Systems Thinking Workshops](/workshop)
 
+### Check out our [YouTube](https://www.youtube.com/channel/UCLC3f04MfmF9FjNTLP9lNCw) and [Twitter](https://twitter.com/systhinkdev?lang=en)!
+
 <script async data-uid="8211ec5d1a" src="https://jessitron.ck.page/8211ec5d1a/index.js"></script>
